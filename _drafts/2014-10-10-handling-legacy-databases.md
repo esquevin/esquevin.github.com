@@ -6,7 +6,7 @@ tags: django, python, database, migration, postgresql,mysql
 
 ###Technical debt
 
-When you are taking over an exiating project, or if your project is old enough, uou might encounter the problem of a legacy database, with inconsistent namings, bunch of deprecated colums and generally speaking, of simply running on mysql when you would like to use sll the power of postgresql. 
+When you are taking over an existing project, or if your project is old enough, uou might encounter the problem of a legacy database, with inconsistent namings, bunch of deprecated colums and generally speaking, of simply running on mysql when you would like to use sll the power of postgresql. 
 
 ###Import legacy database
 
